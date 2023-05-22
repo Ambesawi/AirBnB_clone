@@ -1,0 +1,17 @@
+header {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    /* To align logo to center*/
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    background-image: url(../images/logo.png);
+    width: 136px;
+    height: 60px;
+    position: absolute;
+    left: 20px;
+}
