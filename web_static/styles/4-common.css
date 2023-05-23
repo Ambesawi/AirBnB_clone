@@ -1,16 +1,25 @@
+html {
+  box-sizing: border-box;
+}
+
 body {
-    margin: 0;
-    padding: 0;
-    font-size: 14px;
-    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #484848;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: #484848;
+  font-size: 14px;
+  font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
 }
 .container {
-    max-width: 1000px;
-    margin: 30px auto;
-    /* OR */
-    /* margin-top: 30px; */
-    /* margin-bottom: 30px; */
-    /* margin-left: auto; */
-    /* margin-right: auto; */
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  width: 100%;
+  max-width: 1000px;
+  margin: 30px auto;
 }
+
