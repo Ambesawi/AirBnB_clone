@@ -33,13 +33,13 @@ By the end of this project, you should be able to:
 - No cross-browser compatibility is required.
 
 ## Project Structure
-.
--├── images/
--│ └── ... (image files)
--├── styles/
--│ └── ... (CSS files)
--├── README.md
--└── ... (other project files)
+
+- ├── images/
+- │ └── ... (image files)
+- ├── styles/
+- │ └── ... (CSS files)
+- ├── README.md
+- └── ... (other project files)
 
 
 ## How to Run
