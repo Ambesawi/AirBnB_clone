@@ -20,11 +20,37 @@ By the end of this project, you should be able to:
 
 ### General
 
-- Allowed editors: vi, vim, emacs
-- All files should end with a new line.
-- Include a `README.md` file at the root of the project folder.
-- Code should be W3C compliant and validate with W3C-Validator.
-- CSS files should be stored in the `styles` folder.
-- Images should be stored in the `images` folder.
-- Avoid using `!important` and IDs (`#...`) in CSS files.
-- Do not use `<img>`,
+- Use allowed editors: vi, vim, emacs.
+- End all files with a new line.
+- Include a mandatory `README.md` file at the root of the project folder.
+- Ensure W3C compliance and validate with W3C-Validator.
+- Place all CSS files in the `styles` folder.
+- Store all images in the `images` folder.
+- Avoid using `!important` and IDs in the CSS file.
+- Do not use `<img>`, `<embed>`, and `<iframe>` tags.
+- Do not use Javascript.
+- Screenshots have been taken on Chrome 56 or later.
+- No cross-browser compatibility is required.
+
+## Project Structure
+.
+├── images/
+│ └── ... (image files)
+├── styles/
+│ └── ... (CSS files)
+├── README.md
+└── ... (other project files)
+
+
+## How to Run
+
+- Open the HTML files in a web browser to view the static pages.
+
+## Author
+
+[Aman Brhane]
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
